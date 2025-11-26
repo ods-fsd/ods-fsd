@@ -8,7 +8,6 @@ Fullstack developer with experience in JavaScript, React, Node.js, Next.js and D
 
 JavaScript | TypeScript | Node.js | React | Next.js
 
-
 💻Featured Projects  
 
 - [Ecotote](https://github.com/ods-fsd/ecotote-g5) – a responsive landing page for an eco-bags brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.
@@ -22,8 +21,6 @@ JavaScript | TypeScript | Node.js | React | Next.js
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
-
-Контакти
 
 📫 How to reach me:  
 
