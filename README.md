@@ -25,3 +25,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 📫 How to reach me:  
 
 [LinkedIn](https://www.linkedin.com/in/denys-orlyk/) | [Telegram](https://t.me/ods_tg) | [Email](mailto:idsorlyk@gmail.com)
+
+
+
+<a href="https://u8views.com/github/ods-fsd"><img src="https://u8views.com/api/v1/github/profiles/205804301/views/day-week-month-total-count.svg"></a>
