@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Denys Orlyk</h1>
   <h3>Junior Fullstack Developer</h3>
-  <p>React | Node.js | Next.js | Docker</p>
+  <p>JavaScript | TypeScript | React | Next.js | Node.js | MongoDB</p>
 
   <a href="https://www.linkedin.com/in/denys-orlyk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,16 +18,16 @@
 
 ### 👨‍💻 About Me
 
-Fullstack developer with experience in **JavaScript, React, Node.js, Next.js** and **Docker**. I specialize in creating single-page applications (SPA), integrating REST APIs, and building responsive UI components. 
+Fullstack developer building scalable web applications with a focus on the **MERN** stack and **Next.js**. I have practical experience working in an **Agile/Scrum** environment, having successfully acted as a **Team Lead** on several collaborative projects. In this role, I coordinated team efforts, managed task decomposition, and actively contributed to the codebase.
 
-My approach involves working in an **Agile/Scrum** environment, strict adherence to coding best practices, and version control via **Git**. I focus on performance optimization and scalable web solutions.
+I pay special attention to clean version control history, type safety with **TypeScript**, complex state management, and smooth third-party API integrations.
 
 ---
 
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,docker,html,css,sass,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,sass,git" alt="Tech Stack" />
 </div>
 
 ---
@@ -36,8 +36,10 @@ My approach involves working in an **Agile/Scrum** environment, strict adherence
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Ecotote](https://github.com/ods-fsd/ecotote-g5)** | A responsive landing page for an eco-bags brand. Focused on semantic HTML and responsive design (BEM methodology). | HTML5, SCSS, JS |
-| **[Booksy](https://github.com/ods-fsd/booksy)** | A search web application for books. Implements book search, detailed info views, and uses localStorage. | React, REST API |
+| **Podorozhnyky** <br/> [Client Repo](https://github.com/ods-fsd/podorozhnyky-client)) \| [Server Repo](https://github.com/ods-fsd/podorozhnyky-server) <br/> *(Team Project - Lead)* | A fullstack application for travelers. Features user authentication (JWT + Google OAuth), story creation with image uploads via Cloudinary, and robust API documentation with Swagger. | **Front:** Next.js, TS <br/> **Back:** Node.js, Express, MongoDB |
+| **[RentalCar](https://github.com/ods-fsd/rentalcar)** | A modern car rental catalog. Includes dynamic routing, complex filtering mechanisms, and global state management using Zustand. | Next.js, TypeScript, Zustand |
+| **[Booksy](https://github.com/ods-fsd/booksy)** <br/> *(Team Project - Lead)* | A collaborative search web application for books. I led the team, managed the repository, and implemented core features like book search and detailed info views. | React, REST API |
+| **[Ecotote](https://github.com/ods-fsd/ecotote-g5)** <br/> *(Team Project - Lead)* | A responsive landing page for an eco-bags brand. Coordinated a team of developers to ensure pixel-perfect design and BEM methodology adherence. | HTML5, SCSS, JS |
 
 ---
 
