@@ -46,7 +46,7 @@ I pay special attention to clean version control history, type safety with **Typ
 ### 🗣️ Languages
 
 <div align="left">
-  <img src="https://img.shields.io/badge/English-A2-blue?style=flat-square" alt="English"/>
+  <img src="https://img.shields.io/badge/English-B1-blue?style=flat-square" alt="English"/>
   <img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square" alt="Ukrainian"/>
   <img src="https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square" alt="Polish"/>
 </div>
