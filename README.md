@@ -1,58 +1,53 @@
-<div align="center">
-  <h1>👋 Hi, I'm Denys Orlyk</h1>
-  <h3>Junior Fullstack Developer</h3>
-  <p>JavaScript | TypeScript | React | Next.js | Node.js | MongoDB</p>
+# Denys Orlyk 👋
 
-  <a href="https://www.linkedin.com/in/denys-orlyk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/ods_tg" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:denys.orlyk@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+**Technical Product Manager | Solutions Architect | Business Automation Specialist**
 
-<br/>
+> *Bridging the gap between industrial operations and digital infrastructure.*
 
-### 👨‍💻 About Me
-
-Fullstack developer building scalable web applications with a focus on the **MERN** stack and **Next.js**. I have practical experience working in an **Agile/Scrum** environment, having successfully acted as a **Team Lead** on several collaborative projects. In this role, I coordinated team efforts, managed task decomposition, and actively contributed to the codebase.
-
-I pay special attention to clean version control history, type safety with **TypeScript**, complex state management, and smooth third-party API integrations.
+I specialize in **digital transformation**. My work sits at the intersection of heavy industrial constraints and scalable software architecture. I identify operational bottlenecks, design the logic, and engineer functional solutions that work on the "factory floor" and beyond.
 
 ---
 
-### 🧰 Tech Stack
+### 🛠 Tech Stack & Expertise
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,sass,git" alt="Tech Stack" />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![AI-Augmented](https://img.shields.io/badge/AI--Augmented-f7df1e?style=flat&logo=openai&logoColor=black)
 
----
-
-### 💻 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Podorozhnyky** <br/> [Client Repo](https://github.com/ods-fsd/podorozhnyky-client)) \| [Server Repo](https://github.com/ods-fsd/podorozhnyky-server) <br/> *(Team Project - Lead)* | A fullstack application for travelers. Features user authentication (JWT + Google OAuth), story creation with image uploads via Cloudinary, and robust API documentation with Swagger. | **Front:** Next.js, TS <br/> **Back:** Node.js, Express, MongoDB |
-| **[RentalCar](https://github.com/ods-fsd/rentalcar)** | A modern car rental catalog. Includes dynamic routing, complex filtering mechanisms, and global state management using Zustand. | Next.js, TypeScript, Zustand |
-| **[Booksy](https://github.com/ods-fsd/booksy)** <br/> *(Team Project - Lead)* | A collaborative search web application for books. I led the team, managed the repository, and implemented core features like book search and detailed info views. | React, REST API |
-| **[Ecotote](https://github.com/ods-fsd/ecotote-g5)** <br/> *(Team Project - Lead)* | A responsive landing page for an eco-bags brand. Coordinated a team of developers to ensure pixel-perfect design and BEM methodology adherence. | HTML5, SCSS, JS |
+* **Architecture:** System Design, PWA (Offline-First), Relational Database Modeling.
+* **Engineering:** Modern Full-Stack (Next.js 15, Node.js, Vue 3).
+* **Strategy:** Agile (SDLC), Product Roadmap, Process Engineering.
 
 ---
 
-### 🗣️ Languages
+### 🚀 Showcase: Solution Architecture
 
-<div align="left">
-  <img src="https://img.shields.io/badge/English-B1-blue?style=flat-square" alt="English"/>
-  <img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square" alt="Ukrainian"/>
-  <img src="https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square" alt="Polish"/>
-</div>
+*I build systems designed to solve real business problems. Code for these projects is proprietary; architectural insights available upon request.*
 
-<br/>
+#### **[MonHub (Smart Floor)](https://github.com/ods-fsd/monhub)**
+* **The Challenge:** Warehouse logistics tracking often fails due to paper-based inefficiency and high-latency industrial environments.
+* **The Solution:** Designed an "Offline-First" PWA architecture.
+* **Key Logic:** Implemented resilient database schemas (Prisma/PostgreSQL) optimized for shop-floor data entry and integrated hardware (Zebra) scanning for zero-friction interaction.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ods-fsd&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</div>
+#### **[MasterHub CRM](https://github.com/ods-fsd/masterhub)**
+* **The Challenge:** Service businesses struggle with fragmented spreadsheet workflows and data inconsistency.
+* **The Solution:** Architected a scalable multi-tenant SaaS.
+* **Key Logic:** Developed custom authentication flow (Silent Refresh tokens), multi-tenant database structuring via Supabase, and a high-performance localization engine (i18n).
+
+---
+
+### 💼 Current Focus
+Currently driving digital transformation initiatives as a **Shift Leader of Production** at *Belos-PLP SA*. 
+
+I leverage my production management experience (leading 20+ personnel) to ensure that the software I design is not just technically sound, but operationally effective. My goal is to build tools that drive **ROI** and survive the harsh, high-pressure environments of the manufacturing sector.
+
+---
+
+### 📬 Connect
+* [**LinkedIn**](https://linkedin.com/in/denys-orlyk) | [**Email**](mailto:denys.orlyk@outlook.com)
+* Based in **Bielsko-Biała, Poland** 🇵🇱
+
+---
+*I don't just write code — I engineer reliable solutions.*
